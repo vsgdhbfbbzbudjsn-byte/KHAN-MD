@@ -71,7 +71,7 @@
     <p style="color: #ff00ff; font-size: 16px;">📦 Next, deploy using your preferred method (Heroku, Railway, etc.)</p>
     <ul style="color: #ffffff; line-height: 1.6;">
       <li>📁 Clone or fork the repository</li>
-      <li>⚙️ Add your <code>.env</code> variables</li>
+      <li>⚙️ Add your <code>.config</code> variables</li>
       <li>🚀 Deploy using platform buttons or manual setup</li>
     </ul>
   </div>
