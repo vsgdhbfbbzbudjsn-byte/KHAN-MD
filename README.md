@@ -102,6 +102,7 @@
 
 <p align="center">Deploy your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
+
 <div align="center">
   <table>
     <tr>
@@ -118,6 +119,16 @@
     </tr>
   </table>
 </div>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://deploy-khanmd.onrender.com/" target="_blank">
+        <img alt="Deploy Free On VPS" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
@@ -139,16 +150,15 @@
   </tr>
 </table>  
 
-
 <table align="center">
   <tr>
     <td>
       <a href="https://github.com/JawadTechXD/KHAN-XMD/archive/refs/heads/main.zip" target="_blank">
-        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
+        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
-</table>  
+</table>
 
 <hr>
 <p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
