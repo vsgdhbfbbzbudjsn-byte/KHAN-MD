@@ -120,11 +120,11 @@
   </table>
 </div>
 
-## 🚀 Deploy Free On VPS
+## 🚀 Deploy Free on VPS
 
-> **Fork** The Repo then copy your **username** and add in vps site and then get **session** id from pair site and add then click on deploy wait 5 mint bot will be start
+> Star this repository to support the project. Fork the repository to your own GitHub account Copy your GitHub > username and paste it on the VPS site. Get your Session ID from the Pair site and add it to the VPS setup. Click on Deploy and wait about 5 minutes for the bot to start automatically.
 
-> *When bot start after deploy on vps please use **.restart** command to speed up*
+> ⚠️ Note: After deployment, use the .restart command to improve the bot's performance.
 
 <table align="center">
   <tr>
