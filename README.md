@@ -120,6 +120,12 @@
   </table>
 </div>
 
+## 🚀 Deploy Free On VPS
+
+> **Fork** The Repo then copy your **username** and add in vps site and then get **session** id from pair site and add then click on deploy wait 5 mint bot will be start
+
+> *When bot start after deploy on vps please use **.restart** command to speed up*
+
 <table align="center">
   <tr>
     <td>
